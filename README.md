@@ -1,9 +1,9 @@
-### Hi there 👋 , I'm   Bahadır 🙂
+### Hi there 👋 , I'm   Bahadır 🙂 Welcome to my github profile page. I'm interested in java technologies and the mobile world. Recently, I've been developing myself in the backend (java) field. I've been working on Spring.
 
 
 
 
-- 🌱 I’m currently learning : C,C++,Html,CSS,java and kotlin
+- 🌱 
 
 ### Reach out to me 
 
