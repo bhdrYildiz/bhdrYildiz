@@ -1,4 +1,4 @@
-### Hi there 👋 , I'm   Bahadır 🙂 Welcome to my github profile page. I'm interested in java technologies and the mobile world. Recently, I've been developing myself in the backend (java) field. I've been working on Spring Data, Spring Rest, Spring Boot.
+### Hi there 👋 , I'm   Bahadır 🙂 Welcome to my github profile page. I'm interested in frontend technologies. Recently, I've been developing myself in the frontend field. I've been working on react, node.js, next.js.
 
 
 
