@@ -1,5 +1,4 @@
-### Hi there 👋 , I'm   Bahadır 🙂 Welcome to my github profile page. I'm interested in frontend technologies. Recently, I've been developing myself in the frontend field. I've been working on react, node.js, next.js.
-
+### Hi there 👋 , I'm   Bahadır 🙂 Welcome to my github profile page. I'm interested in frontend technologies. Recently, I've been developing myself in the frontend field. I've been working on javascript react, node.js, next.js.
 
 
 
